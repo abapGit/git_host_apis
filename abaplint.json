@@ -18,6 +18,7 @@
     "globalConstants": []
   },
   "rules": {
+    "use_class_based_exceptions": true,
     "begin_single_include": true,
     "call_transaction_authority_check": true,
     "check_subrc": true,
