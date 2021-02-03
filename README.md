@@ -1,4 +1,7 @@
 # git_host_apis
+
+OBSOLETE, see https://github.com/abap-openapi instead
+
 raw git host apis
 
 ### Git hosting APIs
